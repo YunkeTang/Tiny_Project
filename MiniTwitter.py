@@ -46,11 +46,7 @@ class MiniTwitter:
         # Write your code here
 
 
-    # @param {int} from user_id
-    # @param {int} to_user_id
-    # from user_id follows to_user_id
-    # def follow(self, from_user_id, to_user_id):
-        # Write your code here
+
 
 
 
